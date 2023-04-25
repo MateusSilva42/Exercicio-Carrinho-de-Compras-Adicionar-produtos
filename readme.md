@@ -1,5 +1,5 @@
 # Exercicio de carrinho de compras 
-Desenvolvido como exercicio
+Desenvolvido como atividaded de prática
 
 ## v1
 
